@@ -1,6 +1,6 @@
 # _Cooking Conversion Tool_
 
-#### _HTML/CSS exercise for Epicodus, 3/23/20_
+#### _HTML/JS exercise for Epicodus, 3/23/20_
 
 #### By _**Kate Farkas**_
 
