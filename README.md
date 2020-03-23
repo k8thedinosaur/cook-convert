@@ -28,9 +28,9 @@ _Contact: kate.m.farkas@gmail.com_
 
 _HTML_
 
-_CSS_
+_JavaScript_
 
-_Bootstrap_
+_jQuery_
 
 ### License
 
